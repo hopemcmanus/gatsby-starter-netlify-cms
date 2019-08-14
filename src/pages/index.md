@@ -3,7 +3,7 @@ templateKey: index-page
 title: Hope is the best
 image: /img/home-jumbotron.jpg
 heading: Tonio is ok
-subheading: Support sustainable farming while enjoying a cup
+subheading: Tonio is ok
 mainpitch:
   title: Why Kaldi
   description: >
